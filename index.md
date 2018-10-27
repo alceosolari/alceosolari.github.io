@@ -4,22 +4,5 @@ layout: default
 
 ## Pubblicazioni
 
-LA TRADIZIONE PLURISECOLARE DEGLI OROLOGIAI DI PESARIIS 
+[LA TRADIZIONE PLURISECOLARE DEGLI OROLOGIAI DI PESARIIS](https://alceosolari.github.io/OrologiaiPesariis/docs/)
 
-TBD
-
-## Presentazioni
-
-TBD
-
-TBD
-
-## Fotografie
-
-TBD
-
-TBD
-
-## Collegamenti
-
-TBD
