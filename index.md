@@ -2,24 +2,24 @@
 layout: default
 ---
 
-# Pubblicazioni
+## Pubblicazioni
 
 LA TRADIZIONE PLURISECOLARE DEGLI OROLOGIAI DI PESARIIS 
 
 TBD
 
-# Presentazioni
+## Presentazioni
 
 TBD
 
 TBD
 
-# Fotografie
+## Fotografie
 
 TBD
 
 TBD
 
-# Collegamenti
+## Collegamenti
 
 TBD
